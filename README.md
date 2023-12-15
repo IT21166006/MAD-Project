@@ -4,9 +4,6 @@
 </div>
 
 
-
-Certainly! Here's a styled version of your description with a touch of formatting:
-
 # SL Backpacker Guide 🌍
 
 Welcome to SL Backpacker Guide, your go-to app for exploring the hidden gems of Sri Lanka! 🇱🇰
